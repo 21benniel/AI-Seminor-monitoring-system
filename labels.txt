@@ -1,0 +1,3 @@
+0 listening
+1 not listening
+2 using mobile
